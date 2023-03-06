@@ -1,0 +1,16 @@
+{
+  "name": "2023-03-06-in-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^4.5.0",
+    "jasmine-console-reporter": "^3.1.0"
+  }
+}
